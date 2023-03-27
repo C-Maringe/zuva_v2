@@ -1,0 +1,25 @@
+.rdt_TableCell {
+  border-right: 1px solid rgb(223, 221, 221);
+}
+
+.rdt_TableCol {
+  border-right: 1px solid rgb(223, 221, 221);
+  background-color: #e9ecef;
+}
+
+/* .rdt_TableRow {}
+
+.rdt_TableBody {}
+
+.rdt_TableHeadRow {}
+
+.rdt_TableHead {} */
+
+.rdt_Table {
+  border-top: 1px solid rgb(223, 221, 221);
+  border-left: 1px solid rgb(223, 221, 221);
+}
+
+/* .rdt_TableHeadRow {
+  border-left: 1px solid rgb(223, 221, 221);
+} */
